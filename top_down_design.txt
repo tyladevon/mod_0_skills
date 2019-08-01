@@ -1,0 +1,69 @@
+  How to become a Turing student
+
+  1. Fill out online application
+    1.1 Go online
+      1.1.1 Get computer
+      1.1.2 Turn it on
+      1.1.3 Select internet browser
+    1.2 Go to Turing's website: Turing.io
+    1.3 Select engineering route
+      1.3.1 If unsure, research both front end and back end work
+      1.3.2 If still unsure, ask someone who can help you
+      1.3.3 If still unsure, sign up to take a weekend class to get a feel for both
+        1.3.3.1 Go to Turing homepage
+        1.3.3.2 Select Try Coding tab
+        1.3.3.3 Select date of class
+        1.3.3.4 Select Tickets tab
+        1.3.3.5 Select Checkout
+        1.3.3.6 Fill out personal information including pre-added payment
+        1.3.3.7 Select Place Order
+        1.3.3.8 Participate in class
+          1.3.3.8.1 ...
+    1.4 Select Apply now
+      1.4.1 Set up a profile
+      1.4.2 Confirm email if needed
+    1.5 Fill out application
+      1.5.1 Fill in personal information and history
+    1.6 Upload your resume
+      1.6.1 Find your Resume on your computer
+      1.6.2 Review your resume
+      1.6.3 Made any edits or updates as needed
+      1.6.4 Save your work
+      1.6.5 Ensure it is saved with a professional name
+      1.6.6 On Turing website, click on upload resume tab
+      1.6.7 Browse your computer for you resume
+      1.6.8 Select the correct Resume file
+    1.7 Complete the logic quiz
+      1.7.1 Set time aside to take the quiz
+      1.7.2 Find an area that is quiet and undisturbed
+      1.7.3 Get computer
+      1.7.4 Open computer
+      1.7.4 Re-Open your browser with logic quiz
+      1.7.5 Click on begin quiz
+      1.7.6 Complete quiz
+  2. Set up an Interview
+    2.1 Wait to receive confirmation that you have passed round 1 of process
+    2.2 Respond to email stating you have passed round 1 and can now set up Interview time
+    2.3 Look at calendar
+    2.4 Select an interview time and day that works for you
+  3. Go to Interview
+    3.1 ...
+    3.2 ...
+    3.3 ...
+  4. Select Cohort
+    4.1 Look at calendar
+    4.2 Select Cohort start that fits best with your future plans
+  5. Figure out Tuition and Financing
+    5.1 Consult with a mentor or friend
+    5.2 Figure out a budget
+    5.3 Figure out how to minimize out going expenses even more
+    5.4 Look into scholarships
+    5.5 Look into grants
+    5.6 Set up time to speak with local government assistance
+    5.7 Speak with advisers from Turing
+    5.8 Ask about funding options
+    5.9 Look at personal credit
+    5.10 Look at personal credit history
+    5.11 Choose loan
+      5.11.1 Look into different loan companies and banks
+      5.11.2 Ask family and friends for support if possible
