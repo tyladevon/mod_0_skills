@@ -1,0 +1,17 @@
+Wine Glass
+
+Attributes
+
+material ("glass")
+size (19)
+hold_a_liquid (true)
+includes_a_lid (false)
+clean (true)
+
+
+Methods
+
+drop_glass (false) (0)
+wash_glass (true)
+drink_from_glass (false)
+remove_lid (false)
