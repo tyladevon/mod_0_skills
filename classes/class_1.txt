@@ -1,0 +1,19 @@
+Class Chair
+
+
+Attributes
+
+leg_length (float)
+seat_size (float)
+back_rest (boolean)
+height_of_seat (float)
+color (string)
+
+
+Methods
+
+add_a_cushion (adjusts height_of_seat)
+paint_chair_new_color (alters color)
+saw_chair_legs_down (alters legs_length)
+saw_chair_legs_down (alters height_of_seat)
+add_back_rest (changes boolean result. i.e. if no back_rest = true, now = false)
