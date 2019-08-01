@@ -1,0 +1,20 @@
+Bar Stool Chair
+
+
+
+Attributes
+
+leg_length (32.5)
+seat_size (13.9)
+back_rest (false)
+height_of_seat (34.0)
+color ("oak")
+
+
+Methods
+
+add_a_cushion (35.5)
+paint_chair_new_color ("red")
+saw_chair_legs_down (30.5)
+saw_chair_legs_down (32.0)
+add_back_rest (true)
