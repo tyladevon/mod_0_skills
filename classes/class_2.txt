@@ -1,0 +1,17 @@
+Class Drinking Glass
+
+Attributes
+
+material (string)
+size (integer)
+hold_a_liquid (boolean)
+includes_a_lid (boolean)
+clean (boolean)
+
+
+Methods
+
+drop_glass (affects hold_a_liquid) (affects size)
+wash_glass (changes clean)
+drink_from_glass (changes clean)
+remove_lid (affects includes_a_lid)
